@@ -11,12 +11,14 @@ distro==1.8.0
 Django
 exceptiongroup==1.1.3
 frozenlist==1.4.0
+gunicorn
 h11==0.14.0
 httpcore==1.0.2
 httpx==0.25.1
 idna==3.4
 multidict==6.0.4
 openai==0.28.0
+packaging==23.2
 pydantic==2.5.0
 pydantic_core==2.14.1
 requests==2.31.0
